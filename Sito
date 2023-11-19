@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"><!--Sito responsive-->
+    <title>Marketing</title>
+ <style>
+    body{
+        background-color: crimson;
+        color:black;
+        font-family:Georgia, 'Times New Roman', Times, serif;
+    }
+    hr{
+        color: 2px solid black;
+    }
+ </style><!--Qua ho utlizzato lo style come richiesto e ho modificato il background color e il font-->
+</head>
+<body>
+<h1>Benvenuti alla lezione sul Markting</h1><!--Ho inserito il titolo della pagina-->
+<p>In questa lezione andremo a trattare di marketing e su come diventare ricchi!</p><!--E almeno tre paragrafi-->
+<p>Ebbene ragazzi, sono veramente euforico, ma d'altronde quando fai 5000&euro; in un mese comodamente dal tuo divano, e la cosa ancora più bella che vi farò vedere anche a voi come fare!</p>
+<p>Ecco come doverebbe essere la tua routine:</p>
+<ol><!--Prima ho inserito una lista ordinata con numeri-->
+<li>Alzati alle 5 di mattina</li>
+<li>Fai una doccia fredda</li>
+<li>Non fare colazione, vai a correre</li>
+<li>Finito di correre non fare colazione, fai 200 push-up senza pause</li>
+<li>Ora fai colazione, mangia uno yogurt e del latte di soia</li>
+<li>Vai al mare, fai la tratta Ancona-Miami a nuoto</li>
+ </ol>
+<p>Continua così, sei forte:</p>
+<ul><!--E poi una non ordinata-->
+    <li>Vai sul canale di Brizz94: <a href="https://www.youtube.com/c/Brizz94">Guardati tuti i video</a></li><!--Ho fatto in modo di mettere un link -->
+    <li>Dopo aver fatto questo, inizia a giocare Pyke e impara il mental</li>
+    <li>Ora puoi inizare a vivere la tua vita da boss della finanza</li>
+</ul>
+<p>Inizia a seguire questo uomo: <a href="https://it.wikipedia.org/wiki/Andrew_Tate">Segui tutte le sue lezione</a></p><!--Anche qua -->
+<a href="https://it.wikipedia.org/wiki/O._J._Simpson">Uccidi tua moglie.</a><!--E anche qua-->
+<p>Continua su questo sito eseguendo l'accesso e dandoci i tuoi dati</p><hr>
+<form>
+    <label for="nome">Nome:</label><br><!--Ho inseito degli input di tipo tex normalissimo-->
+    <input type="text" id="nome" name="nome" placeholder="Pippo" required><br>
+    <label for="cognome">Cognome:</label><br>
+    <input type="text" id="cognome" name="cognome" placeholder="Franco" required><br>
+    <label for="chad">Da 1 a 10 quando GigaChad sei 🍷🗿:</label><br><!--Qua ho inserito delle emoji-->
+  <input type="number" id="chad" name="chad" step="1" min="0" max="10"><br><!--Qua ho messo un altro tipo di input mettendo il type="number"-->
+  <p>Scrivi qua il tuo mental:</p>
+  <textarea name="message" rows="10" cols="30"></textarea><!--Qua ho messo il textarea-->
+  </form><hr>
+<p>Grazie per il tuo preziosissimo tempo</p>
+<img src="https://cdn3.emoji.gg/emojis/6392-gigachad.png"><br><!--E qua delle immagini-->
+<img src="https://media.tenor.com/vhMUIyG6dEQAAAAd/sigma-sigma-male.gif">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Xi_Jinping_March_2017.jpg/640px-Xi_Jinping_March_2017.jpg">
+</body>
+</html>
