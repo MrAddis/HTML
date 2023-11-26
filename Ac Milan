@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AC MILAN || Sito non ufficiale</title>
+    <link rel="stylesheet" href="css.css">
+</head>
+<body>
+    <div style="text-align: center;" >
+        <img src="https://www.acmilan.com/images/social/acmilan.png" width="150" height="150" title="Logo AC MILAN" >
+    </div>
+    <div> 
+        <h1 style="text-align: center;">AC <nobr style="color:crimson;">MILAN</h1></nobr><hr>
+    <h2 style="text-align: center;">#WE ARE AC MILAN</h2><hr style="width: 50%;">
+    </div>
+    <div style="text-align: center;">
+      <h3><a href="chisiamonoi.html" target="_blank">CHI SIAMO NOI?</a></h3><hr>
+      <h3>I pezzi più importanti della <nobr style="color:crimson;">squadra</nobr></h3>
+      <p><strong>Tra tutta la nostra preziosissima squadra questi,<nobr style="color: crimson;">sono i nomi più importanti</nobr>: </strong></p>
+      <center><ul></center>
+        <li><strong><a href="rafaleao.html" target="_blank">Rafael Leao</a></strong></li>
+        <li><strong><a href="oligiroud.html" target="_blank">Olivier Giroud</a></strong></li>
+        <li><strong><a href="maignan.html" target="_blank">Mike Maignan</a></strong></li>
+      </ul>  
+    </div><hr style="width: 75%;">
+    <center><table></center>
+        <tr>
+            <th>Giocatore</th>
+            <th>Gol fatti</th>
+            
+          </tr>
+          <tr>
+            <td>Olivier Giroud</td>
+            <td>7</td>
+            
+          </tr>
+          <tr>
+            <td>Christian Pulisic</td>
+            <td>4</td>
+            
+          </tr>
+          <tr>
+            <td>Rafael Leao</td>
+            <td>4</td>
+            
+          </tr>
+          <tr>
+            <td>Noah Okafor</td>
+            <td>2</td>
+            
+          </tr>
+          <tr>
+            <td>Ruben Loftus-Cheek</td>
+            <td>1</td>
+            
+          </tr>
+    </table>
+
+    
+
+</body>
+</html>
